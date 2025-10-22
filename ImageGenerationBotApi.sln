@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGenerationBotApi", "ImageGenerationBotApi.csproj", "{FC0033C4-08E6-CFC8-6574-FB5DCF357046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0033C4-08E6-CFC8-6574-FB5DCF357046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0033C4-08E6-CFC8-6574-FB5DCF357046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0033C4-08E6-CFC8-6574-FB5DCF357046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0033C4-08E6-CFC8-6574-FB5DCF357046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {196CE534-6811-44CE-B555-5677746947EC}
+	EndGlobalSection
+EndGlobal
